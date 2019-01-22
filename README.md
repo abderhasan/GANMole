@@ -1,5 +1,5 @@
 # GANMole
-This code uses a Generative Adversarial Network (GAN) to generate melanoma images
+This code uses a Generative Adversarial Network (GAN) to generate melanoma images.
 
 To run the code:
 
