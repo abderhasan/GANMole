@@ -1,5 +1,5 @@
 '''
-This code enables you to rename image file names to sequence number names (i.e. 0.jpg, 1.jpg,...)_
+This code enables you to generate melanoma images using a Generative Adversarial Network (GAN)
 @author: Abder-Rahman Ali
 abder@cs.stir.ac.uk
 '''
