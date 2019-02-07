@@ -20,7 +20,7 @@ number_of_images = 374
 real_images = []
 
 # paths to the training and results directories
-train_directory = '//train'
+train_directory = '/train'
 results_directory = '/results'
 
 # GAN generator
